@@ -63,4 +63,4 @@ jobs:
           app-name: 'SentimentAnalysis'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC05936E412C41A9B75B6DC59A2E895B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F77F34156F214908BE4019E310CFEF03 }}
